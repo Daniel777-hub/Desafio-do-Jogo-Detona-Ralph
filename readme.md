@@ -1,36 +1,33 @@
-## Desafio Jogo Detona Ralph
+# Desafio do Jogo Detona Ralph
 
-<p align="center">
-  <img src="https://github.com/Daniel777-hub/Desafio-Jogo-Detona-Ralph/tree/main/src/images" alt="Desafio Jogo Detona Ralph Logo">
-</p>
+![Desafio Jogo Detona Ralph Logo](https://github.com/Daniel777-hub/Desafio-Jogo-Detona-Ralph/tree/main/src/images)
 
-Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um jogo divertido baseado no famoso filme "Detona Ralph". Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
+Bem-vindo ao **Desafio do Jogo Detona Ralph**! Este repositório contém um jogo inspirado no famoso filme "Detona Ralph", oferecendo diversão e demonstrando técnicas avançadas de desenvolvimento em JavaScript.
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-- HTML5 e CSS3 para a estrutura e aparência do jogo.
-- JavaScript para a lógica de programação e interatividade.
-- Sprites e imagens customizadas para criar a estética única do universo de Detona Ralph.
+- HTML5 e CSS3 para estrutura e aparência.
+- JavaScript para lógica de programação e interatividade.
+- Sprites e imagens customizadas para a estética única de Detona Ralph.
 
-### Funcionalidades Incríveis
+## Funcionalidades Destacadas
 
-- **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
+- **Sistema de Pontuação**: Acompanhe sua pontuação enquanto clica no quadrado onde o Ralph se encontra.
 
-### Como Jogar
+## Como Jogar
 
-1. Clone este repositório para sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador web.
-3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
-4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
+1. Clone este repositório.
+2. Abra o arquivo `index.html` no seu navegador.
+3. Use as setas para mover e barra de espaço para interagir.
+4. Explore, colete moedas, e evite inimigos!
 
-### Contribuição
+## Contribuição
 
-Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_.
+Contribuições são bem-vindas! Se deseja melhorar o jogo, adicionar recursos ou corrigir problemas, abra um _pull request_.
 
-### Créditos
+## Créditos
 
-Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
+Este jogo faz parte de um projeto educacional da Digital Innovation One.
 
 ---
 
-Divirta-se jogando o **JSGame Detona Ralph** enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/digitalinnovationone/jsgame-detona-ralph) e deixar uma ⭐️ se você gostou do projeto!
