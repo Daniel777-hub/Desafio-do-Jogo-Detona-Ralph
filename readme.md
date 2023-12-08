@@ -1,6 +1,6 @@
 # Desafio do Jogo Detona Ralph
 
-![Desafio Jogo Detona Ralph Logo](https://github.com/Daniel777-hub/Desafio-Jogo-Detona-Ralph/tree/main/src/images)
+![Desafio Jogo Detona Ralph Logo](https://github.com/Daniel777-hub/Desafio-do-Jogo-Detona-Ralph/tree/main/src/images)
 
 Bem-vindo ao **Desafio do Jogo Detona Ralph**! Este repositório contém um jogo inspirado no famoso filme "Detona Ralph", oferecendo diversão e demonstrando técnicas avançadas de desenvolvimento em JavaScript.
 
